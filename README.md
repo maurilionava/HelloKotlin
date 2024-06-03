@@ -7,3 +7,6 @@
 3. **[ConversoesDeTipo.kt](ConversoesDeTipo.kt) <sub>*criação 02JUN24*</sub>**
 4. **[Operadores.kt](Operadores.kt) <sub>*criação 02JUN24*</sub>**
 5. **[DeclaracaoDeFuncoes.kt](DeclaracaoDeFuncoes.kt) <sub>*criação 02JUN24*</sub>**
+6. **[KotBank](KotBank) <sub>*criação 02JUN24*</sub>**
+7. **[TipoEnum.kt](TipoEnum.kt) <sub>*criação 02JUN24*</sub>**
+8. **[Listas.kt](Listas.kt) <sub>*criação 02JUN24*</sub>**
